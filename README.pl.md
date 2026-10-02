@@ -76,7 +76,7 @@ adresem podanym w zakładce `Settings` > `Pages` w ustawieniach Twojego
 repozytorium. Dla przykładu, oto link do wersji live tego repozytorium-szablonu —
 u Ciebie będzie własny:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/web-team-project-template/](https://goitacademy.github.io/web-team-project-template/).
 
 Jeśli otworzy się pusta strona, sprawdź, czy GitHub Pages jest włączone
 (`Settings` > `Pages`) i czy ostatnie wdrożenie w zakładce `Actions` zakończyło

@@ -53,7 +53,7 @@ Durum hakkında daha ayrıntılı bilgi, simgeye tıklayarak ve açılan pencere
 
 Bir süre sonra, genellikle birkaç dakika içinde, canlı sayfa senin deponun `Settings` > `Pages` sekmesinde belirtilen adresten görüntülenebilir. Örneğin, bu şablon deposunun canlı sürümünün bağlantısı şöyledir — sende kendi bağlantın olacak:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/web-team-project-template/](https://goitacademy.github.io/web-team-project-template/).
 
 Boş bir sayfa açılırsa, GitHub Pages'in etkin olduğundan (`Settings` > `Pages`) ve `Actions` sekmesindeki son dağıtımın başarıyla (yeşil) tamamlandığından emin ol.
 

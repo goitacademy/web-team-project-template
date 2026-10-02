@@ -77,7 +77,7 @@
 репозиторію. Для прикладу, ось посилання на живу версію цього репозиторію-шаблону —
 у тебе буде своє:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/web-team-project-template/](https://goitacademy.github.io/web-team-project-template/).
 
 Якщо відкриється порожня сторінка, перевір, що GitHub Pages увімкнено
 (`Settings` > `Pages`), а останній деплой у вкладці `Actions` завершився

@@ -71,7 +71,7 @@ la adresa specificată în secțiunea `Settings` > `Pages` din setările reposit
 tău. De exemplu, iată link-ul către versiunea live a acestui repository-template —
 tu vei avea propriul link:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/web-team-project-template/](https://goitacademy.github.io/web-team-project-template/).
 
 Dacă se deschide o pagină goală, verifică dacă GitHub Pages este activat
 (`Settings` > `Pages`) și dacă ultimul deployment din fila `Actions` s-a încheiat
