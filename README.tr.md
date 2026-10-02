@@ -1,4 +1,4 @@
-# Vanilla App Template
+# Web Team Project Template
 
 Takım projeleri için bu şablon Vite kullanılarak oluşturulmuştur. Ek özelliklerin tanınması ve özelleştirilmesi için [belgelere bakın](https://vitejs.dev/).
 

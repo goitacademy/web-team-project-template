@@ -1,4 +1,4 @@
-# Vanilla App Template
+# Web Team Project Template
 
 Acest template pentru proiecte de echipă a fost creat cu ajutorul Vite. Pentru o mai bună cunoaștere
 și configurare a funcțiilor suplimentare [consultă documentația](https://vitejs.dev/).
